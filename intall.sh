@@ -1,0 +1,1 @@
+docker run --rm -it -p 8081:8081 -v .:/var/www openswoole/swoole:latest-dev
